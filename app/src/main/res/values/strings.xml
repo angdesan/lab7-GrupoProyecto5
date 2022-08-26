@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">“Grupo2_Lab2_InicioSesionFirebase</string>
+    <string name="prefs_file">com.example.grupo2_lab2_iniciosesionfirebase.PREFERENCE_FILE_KEY</string>
+</resources>
